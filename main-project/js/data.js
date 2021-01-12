@@ -583,4 +583,4 @@ const clubsArray = [
     }
 ];
 
-export default clubsArray;
+//export default clubsArray;
