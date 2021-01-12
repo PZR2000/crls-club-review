@@ -1,4 +1,4 @@
-export const clubsArray = [
+const clubsArray = [
     {
         "club": "Book Club",
         "advisor": "Emily Houston",
@@ -624,3 +624,5 @@ export const clubsArray = [
         "img": "bookClub.png"
     }
 ];
+
+export default clubsArray;

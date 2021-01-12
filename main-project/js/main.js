@@ -1,6 +1,5 @@
-import {
-    clubsArray
-} from './data.js'
+import clubsArray from './data.js'
+
 console.log(clubsArray)
 
 var val = "";
