@@ -95,6 +95,8 @@ const clubsArray = [
         ],
         "time": "Wednesdays 1:00 PM",
         "img": ""
+        "desc": "Aspine is an alternative front-end for Aspen which makes it easier to access your grades from your computer and phone. We need YOUR help to add features and keep Aspine running.
+
     },
     {
         "club": "Astronomy Club",
@@ -105,7 +107,7 @@ const clubsArray = [
         ],
         "time": "Thursdays 3:00 PM",
         "img": "astroClub.png",
-        "desc": "Description not provided"
+        "desc": "Astronomy club invites guest speakers every month, watches space-themed movies, learns about discoveries in Astronomy and launches rockets."
     },
     {
         "club": "Biotech Club",
@@ -172,6 +174,7 @@ const clubsArray = [
         ],
         "time": "Fridays 4:00 PM",
         "img": ""
+        "desc": "Our mission is to teach others about the incredible connection between origami and STEAM. We also plan to get involved with our community outside of CRLS by doing things like donating handmade origami projects, building 1,000 paper cranes to send to a hospital and researching origami’s effects on the brain."
     },
     {
         "club": "Rocket Club",
@@ -182,6 +185,7 @@ const clubsArray = [
         ],
         "time": "Wednesdays 3:30 PM",
         "img": ""
+        "desc": "The CRLS Rocket club participates in the American Rocketry Challenge. Over the course of the year the club builds and launches multiple rockets trying to get as close as possible to certain predetermined parameters like max altitude and flight duration."
     },
     {
         "club": "Science Team",
@@ -214,6 +218,7 @@ const clubsArray = [
         ],
         "time": "First Friday of each month, 4:00 PM",
         "img": "club4.png"
+        "desc": "Teams of 6-8 volunteers shop for, prepare, and serve meals for the homeless at the Harvard Square Homeless Shelter every Friday and Sunday night."
     },
     {
         "club": "Habitat for Humanity",
@@ -225,6 +230,7 @@ const clubsArray = [
         ],
         "time": "Every other Tuesday, 8:00 AM",
         "img": "hab4human.png"
+        "desc": "CRLS is an official campus chapter of the nonprofit organization Habitat for Humanity International. Through various fundraisers, the club raises money to build simple, low-cost homes for families in need of decent and affordable housing. Club members also have opportunities to participate in volunteer house-building days in the Boston area."
     },
     {
         "club": "Student Government",
@@ -247,6 +253,7 @@ const clubsArray = [
         ],
         "time": "1-2 Thursdays per month, 7:00 PM",
         "img": "chMusic.png"
+        "desc" : "Chamber music consists of small groups of student musicians that meet before or after school, depending on that group's schedule. Ensembles are student-led with the possibility of receiving coaching from a Longy School of Music or Radius Ensemble expert. All chamber groups meet periodically throughout the year to play for each other in master classes and have the opportunity to perform in the Chamber Concert in June."
     },
     {
         "club": "CRLS Off Broadway Theatre Society",
@@ -257,6 +264,7 @@ const clubsArray = [
         ],
         "time": "Tuesdays 3:30 PM",
         "img": ""
+        "desc" : "The Off Broadway Theater Society is a place for all those interested in all aspects of theater whether you like to be onstage, backstage, behind the curtain, in the audience or a mix of all of those. In this club we are striving to create a more inclusive theater community at CRLS where students can come together to learn, create and better their understanding of the arts."
     },
     {
         "club": "Henna Club",
