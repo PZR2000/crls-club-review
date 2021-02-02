@@ -397,6 +397,7 @@ const clubsArray = [
         ],
         "time": "Wednesdays 3:00 PM",
         "img": "bookClub.png"
+        "desc": "As members of the Latinx club, we desire to create a space where Latinx people and culture are celebrated and welcome. Como miembros del grupo Latinx deseamos crear un espacio donde la gente Latinx y su cultura sean celebradas y bienvenidas."
     },
     {
         "club": "Muslim Culture Club",
