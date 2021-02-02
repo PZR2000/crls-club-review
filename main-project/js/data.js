@@ -61,7 +61,7 @@ const clubsArray = [
         "tags": [
             "ela"
         ],
-        "time": "",
+        "time": "Every other Thrusday at 8:30 AM",
         "img": "histClub.png",
         "desc": "As a student organization at CRLS, the History Club participates in the annual National History Day competition, sending a number of presentations each year. In addition the History Club makes an annual trip to participate in advocacy work or to explore places of historical relevance."
     },
