@@ -364,7 +364,7 @@ const clubsArray = [
         ],
         "time": "Every other Friday, 2:45 PM",
         "img": "bookClub.png"
-        "desc": "All students from CRLS are welcomed to join the Asian Club. The AsianClub promotes and shares Asian history and cultures among its members through all kinds of club activities such as movies, celebration of festivals, and learning of calligraphy. Another goal of the Asian Club is to enable its members to learn from and help one another while studying at CRLS. The Asian Club holds fundraising activities which are used to sponsor group activities such as dim sum in Chinatown, field trips and social affairs designed by the members to gain a more sophisticated appreciation of Asian cultures."
+        "desc": "All students from CRLS are welcomed to join the Asian Club. The Asian Club promotes and shares Asian history and cultures among its members through all kinds of club activities such as movies, celebration of festivals, and learning of calligraphy. Another goal of the Asian Club is to enable its members to learn from and help one another while studying at CRLS. The Asian Club holds fundraising activities which are used to sponsor group activities such as dim sum in Chinatown, field trips and social affairs designed by the members to gain a more sophisticated appreciation of Asian cultures."
     },
     {
         "club": "Habesha Club",
@@ -508,6 +508,7 @@ const clubsArray = [
         ],
         "time": "Wednesdays 3:00 PM",
         "img": ""
+        "desc": "The ISSU is an affinity group of radical left CRLS students looking to better organize the struggle for socialism and social justice that has up until now been quite piecemeal."
     },
     {
         "club": "Marine Conservation Club",
