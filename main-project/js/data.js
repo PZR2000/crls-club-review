@@ -27,6 +27,7 @@ const clubsArray = [
         "location": "2320",
         "tags": [
             "ela"
+     
         ],
         "time": "Wednesdays 1:00 PM",
         "img": "poetry.png",
