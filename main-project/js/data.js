@@ -27,6 +27,7 @@ const clubsArray = [
         "location": "2320",
         "tags": [
             "ela"
+     
         ],
         "time": "Wednesdays 1:00 PM",
         "img": "poetry.png",
@@ -61,7 +62,7 @@ const clubsArray = [
         "tags": [
             "ela"
         ],
-        "time": "",
+        "time": "Every other Thrusday at 8:30 AM",
         "img": "histClub.png",
         "desc": "As a student organization at CRLS, the History Club participates in the annual National History Day competition, sending a number of presentations each year. In addition the History Club makes an annual trip to participate in advocacy work or to explore places of historical relevance."
     },
@@ -95,6 +96,8 @@ const clubsArray = [
         ],
         "time": "Wednesdays 1:00 PM",
         "img": ""
+        "desc": "Aspine is an alternative front-end for Aspen which makes it easier to access your grades from your computer and phone. We need YOUR help to add features and keep Aspine running.
+
     },
     {
         "club": "Astronomy Club",
@@ -105,7 +108,7 @@ const clubsArray = [
         ],
         "time": "Thursdays 3:00 PM",
         "img": "astroClub.png",
-        "desc": "Description not provided"
+        "desc": "Astronomy club invites guest speakers every month, watches space-themed movies, learns about discoveries in Astronomy and launches rockets."
     },
     {
         "club": "Biotech Club",
@@ -172,6 +175,7 @@ const clubsArray = [
         ],
         "time": "Fridays 4:00 PM",
         "img": ""
+        "desc": "Our mission is to teach others about the incredible connection between origami and STEAM. We also plan to get involved with our community outside of CRLS by doing things like donating handmade origami projects, building 1,000 paper cranes to send to a hospital and researching origami’s effects on the brain."
     },
     {
         "club": "Rocket Club",
@@ -182,6 +186,7 @@ const clubsArray = [
         ],
         "time": "Wednesdays 3:30 PM",
         "img": ""
+        "desc": "The CRLS Rocket club participates in the American Rocketry Challenge. Over the course of the year the club builds and launches multiple rockets trying to get as close as possible to certain predetermined parameters like max altitude and flight duration."
     },
     {
         "club": "Science Team",
@@ -214,6 +219,7 @@ const clubsArray = [
         ],
         "time": "First Friday of each month, 4:00 PM",
         "img": "club4.png"
+        "desc": "Teams of 6-8 volunteers shop for, prepare, and serve meals for the homeless at the Harvard Square Homeless Shelter every Friday and Sunday night."
     },
     {
         "club": "Habitat for Humanity",
@@ -225,6 +231,7 @@ const clubsArray = [
         ],
         "time": "Every other Tuesday, 8:00 AM",
         "img": "hab4human.png"
+        "desc": "CRLS is an official campus chapter of the nonprofit organization Habitat for Humanity International. Through various fundraisers, the club raises money to build simple, low-cost homes for families in need of decent and affordable housing. Club members also have opportunities to participate in volunteer house-building days in the Boston area."
     },
     {
         "club": "Student Government",
@@ -247,6 +254,7 @@ const clubsArray = [
         ],
         "time": "1-2 Thursdays per month, 7:00 PM",
         "img": "chMusic.png"
+        "desc" : "Chamber music consists of small groups of student musicians that meet before or after school, depending on that group's schedule. Ensembles are student-led with the possibility of receiving coaching from a Longy School of Music or Radius Ensemble expert. All chamber groups meet periodically throughout the year to play for each other in master classes and have the opportunity to perform in the Chamber Concert in June."
     },
     {
         "club": "CRLS Off Broadway Theatre Society",
@@ -257,6 +265,7 @@ const clubsArray = [
         ],
         "time": "Tuesdays 3:30 PM",
         "img": ""
+        "desc" : "The Off Broadway Theater Society is a place for all those interested in all aspects of theater whether you like to be onstage, backstage, behind the curtain, in the audience or a mix of all of those. In this club we are striving to create a more inclusive theater community at CRLS where students can come together to learn, create and better their understanding of the arts."
     },
     {
         "club": "Henna Club",
@@ -267,6 +276,8 @@ const clubsArray = [
         ],
         "time": "Every other Friday, 3:15 PM",
         "img": "henna.png"
+        "desc": "The Henna Club at CRLS welcomes all students to the art of henna and the joy and relaxation derived from learning and applying it. Learn the techniques involved and engage in applying the creative designs. Enjoy a relaxed atmosphere and soothing music and get introduced to, or re-acclimated with the cultures of many countries and communities where henna is an established tradition celebrated for what it is and for all that it represents for life’s various ceremonies and events."
+
     },
     {
         "club": "K-Pop Club",
@@ -277,6 +288,7 @@ const clubsArray = [
         ],
         "time": "Wednesdays 3:15 PM",
         "img": "Kpop.png"
+        "desc": "The K-Pop club performs at the CRLS annual talent show, watches and discusses newly released K-Pop music videos, reads current events relating to the K-Pop community, introduces newly debuted groups and watches online K-Pop events."
     },
     {
         "club": "Media Arts Club",
@@ -287,6 +299,7 @@ const clubsArray = [
         ],
         "time": "Wednesdays 3:00 PM",
         "img": "bookClub.png"
+        "desc": "The Media Arts club makes projects for local cable channel 98 and youthviewcambridge.org. If you are interested in podcast and music production, video production or media journalism come check us out!"
     },
     {
         "club": "Improv Club",
@@ -297,6 +310,7 @@ const clubsArray = [
         ],
         "time": "Mondays 5:00 PM",
         "img": "bookClub.png"
+        "desc": "Improv is a form of theater that focuses on spontaneity and saying the first thing that comes to mind. Improv club is a really good place to be your authentic self and get out of your comfort zone whether you have done theater or not. The club also puts on a couple of shows each year for the CRLS community."
     },
     {
         "club": "Photo Club",
@@ -307,6 +321,7 @@ const clubsArray = [
         ],
         "time": "Every other Friday, 3:00 PM",
         "img": "bookClub.png"
+        "desc": "The Photo Club is a group of students who are especially interested in photography. It is a mix of experienced and new photographers. Students can learn to use the digital equipment as well as the darkroom. It provides the opportunity for students to have access and learn the art of photography."
     },
     {
         "club": "Drumline Club",
@@ -317,6 +332,7 @@ const clubsArray = [
         ],
         "time": "Fridays 3:00 PM",
         "img": "bookClub.png"
+        "desc": "In this course, students will learn how to play in a Percussion Ensemble. The instrumentation includes traditional and non-traditional percussion instruments such as snare drum, bass drum, multi-toms, cymbals, timpani, world percussion instruments, mallets (xylophone, vibraphone, marimba), piano, guitar, and bass. The Drumline performs at the Memorial Day Parade and Thanksgiving football game with Band. The Percussion Ensemble plays featured pieces at the Winter and Spring concerts and performs as band members. Students are encouraged to take this course for continuous semesters and over multiple years to continue development of their composition, technical, and performance skills."
     },
     {
         "club": "Jewish Heritage Club",
@@ -327,6 +343,7 @@ const clubsArray = [
         ],
         "time": "Thursdays 8:00 AM",
         "img": "bookClub.png"
+        "desc": "Jewish Heritage Club is a space for people to check in with each other, discuss relevant issues and communicate with the greater CRLS community. We used to meet over bagels and now over zoom."
     },
     {
         "club": "Arabic Club",
@@ -337,6 +354,7 @@ const clubsArray = [
         ],
         "time": "Every other Friday, 3:00 PM",
         "img": "bookClub.png"
+        "desc": "The Arabic Club at CRLS welcomes all students to celebrate Arab culture and the Arabic language. It provides its members and the school community the opportunity to enjoy the richness of the Arab World and all it has to offer. Members engage in music, dancing and Dabke (line dance), food and cooking, calligraphy and other arts, movies and documentaries, country presentations, chatting in Arabic (not a requirement!), discussing current affairs, games (backgammon, chess, etc.), volunteering and fundraising, and special events."
     },
     {
         "club": "Asian Club",
@@ -347,6 +365,7 @@ const clubsArray = [
         ],
         "time": "Every other Friday, 2:45 PM",
         "img": "bookClub.png"
+        "desc": "All students from CRLS are welcomed to join the Asian Club. The Asian Club promotes and shares Asian history and cultures among its members through all kinds of club activities such as movies, celebration of festivals, and learning of calligraphy. Another goal of the Asian Club is to enable its members to learn from and help one another while studying at CRLS. The Asian Club holds fundraising activities which are used to sponsor group activities such as dim sum in Chinatown, field trips and social affairs designed by the members to gain a more sophisticated appreciation of Asian cultures."
     },
     {
         "club": "Habesha Club",
@@ -357,6 +376,7 @@ const clubsArray = [
         ],
         "time": "Every other Wednesday, 1:30 PM",
         "img": "bookClub.png"
+        "desc": "Habasha is mostly about facilitating cross cultural activities in the school. We share Ethiopian culture with others through music, dance, food, dress, and performances. We reflect diversity in and out of the school. We also fundraise to support disadvantaged kids in Ethiopia and help them to attend school and provide for their needs. You do NOT have to be Ethiopian to join. All you need is a sincere interest in cross-cultural exchange."
     },
     {
         "club": "Haitian Club",
@@ -367,6 +387,7 @@ const clubsArray = [
         ],
         "time": "Thursdays 2:30 PM",
         "img": "bookClub.png"
+        "desc": "Haitain Club is one of the longest running clubs in CRLS. The club discusses Hatian culture and history, explores Hatian culture by listening to music and/or learning Hatian creole, hosts guest speakers and professional dancers that teach a variety of Hatian dances, hosts game and cooking nights, makes arts and crafts, and fundraises for schools in Haiti through performing for events and selling food. Anyone at CRLS can join!"
     },
     {
         "club": "Latinx Club",
@@ -377,6 +398,7 @@ const clubsArray = [
         ],
         "time": "Wednesdays 3:00 PM",
         "img": "bookClub.png"
+        "desc": "As members of the Latinx club, we desire to create a space where Latinx people and culture are celebrated and welcome. Como miembros del grupo Latinx deseamos crear un espacio donde la gente Latinx y su cultura sean celebradas y bienvenidas."
     },
     {
         "club": "Muslim Culture Club",
@@ -387,6 +409,7 @@ const clubsArray = [
         ],
         "time": "Every other Monday, 3:00 PM",
         "img": "bookClub.png"
+        "desc": "The Muslim Culture club plays games, discusses Islamic knowledge, takes action and fundraises for Muslim crises across the world, and volunteers with ISBCC and INCA. The club also has an annual Taste of Ramadan event, where students teach others about Ramadan, serve free food from different cultures, get Henna done and more."
     },
     {
         "club": "Junior State of America (JSA)",
@@ -397,6 +420,7 @@ const clubsArray = [
         ],
         "time": "Fridays 3:00 PM",
         "img": "bookClub.png"
+        "desc": "Junior State of America (JSA) is a student-run, non-partisan, non-profit political awareness club. Students run the chapter meetings, decide on debate topics, organize every aspect of the chapter. JSA gives students an opportunity to voice their opinions on local, state, national, and world issues. JSA gives students valuable “citizenship training” by letting students run their own government. JSA chapters conduct a wide range of political awareness activities: informal discussions, structured debates, educational simulation, challenging mock trials, informative political guest speakers, and voter registration drives are only a few of the activities chapters hold. JSA holds Saturday conferences and overnight conventions that allow students from many different high schools a chance to debate and discuss important issues."
     },
     {
         "club": "Model United Nations Club",
@@ -407,6 +431,7 @@ const clubsArray = [
         ],
         "time": "Every other Friday, 8:00 AM",
         "img": "bookClub.png"
+        "desc": "The CRLS Model UN club attends up to two conferences each year with participants from around the world. Students are even able to go to New York city for a weekend stay in a hotel downtown."
     },
     {
         "club": "Political Awareness Club",
@@ -417,6 +442,7 @@ const clubsArray = [
         ],
         "time": "Wednesdays 2:30 PM",
         "img": "bookClub.png"
+        "desc": "Political Awareness club learns about current events, debates topical issues, gets engaged in political outreach and learns politics in a fun and engaging way. We try to keep it light and fun while still talking about important issues."
     },
     {
         "club": "Bicycle Advocacy Club",
@@ -427,6 +453,7 @@ const clubsArray = [
         ],
         "time": "Wednesdays 10:45 AM",
         "img": "bookClub.png"
+        "desc": "The CRLS Bike Advocates are CRLS Students and Faculty committed to promoting: Biking, Bike Safety, Sustainability, Bike Mechanics, Road Knowledge, Bike Infrastructure, A Biking Community, and Enjoyment Through Biking. The club promotes biking within the CRLS community by hosting school events as well as speaking out in favor of safe bike infrastructure at public meetings. The Bike Advocates are an open group."
     },
     {
         "club": "Black Student Union",
@@ -437,6 +464,7 @@ const clubsArray = [
         ],
         "time": "Wednesdays 10:00 AM",
         "img": "bookClub.png"
+        "desc": "The Black Students Union strives to bring awareness to Black issues through education, participation, and activism. Through community service, civic engagement, charitable events, dialogue, and social gatherings, students of any background are welcomed to take part in fostering a more empowering CRLS for Black students."
     },
     {
         "club": "Intersectional Feminism Club",
@@ -447,6 +475,7 @@ const clubsArray = [
         ],
         "time": "Thursdays 3:00 PM",
         "img": "bookClub.png"
+        "desc": "Intersectional Feminism club learns and talks about gender inequality and inclusivity in the feminist movement. It is a space to exchange points of view and make change with those who want to do the same."
     },
     {
         "club": "Environmental Action Club",
@@ -458,6 +487,7 @@ const clubsArray = [
         ],
         "time": "Thursdays 8:00 AM",
         "img": "bookClub.png"
+        "desc": "The Environmental Action Club works to raise interest in and awareness of issues around the environment. In the past we have helped to get composting started at CRLS, held a denim drive to collect jeans for insulation for houses and started a green roof at CRLS. We look forward to more projects and to participate in Envirothon competitions."
     },
     {
         "club": "#HerVote",
@@ -468,6 +498,7 @@ const clubsArray = [
         ],
         "time": "Tuesdays and Thursdays, 3:00 PM",
         "img": "bookClub.png"
+        "desc": "#HerVote is a civic engagement initiative and partnership with the Radcliffe Institute at Harvard University. The club was founded with the mission to increase participation by women in elections and amplify the voices of those usually not recorded in history."
     },
     {
         "club": "Intersectional Socialist Student Union (ISSU)",
@@ -478,6 +509,7 @@ const clubsArray = [
         ],
         "time": "Wednesdays 3:00 PM",
         "img": ""
+        "desc": "The ISSU is an affinity group of radical left CRLS students looking to better organize the struggle for socialism and social justice that has up until now been quite piecemeal."
     },
     {
         "club": "Marine Conservation Club",
@@ -489,6 +521,7 @@ const clubsArray = [
         ],
         "time": "First and third Wednesdays of each month, 2:00 PM",
         "img": ""
+        "desc": "The Marine Conservation club educates and spreads awareness about current issues revolving around the ocean."
     },
     {
         "club": "Project 10 East",
@@ -499,6 +532,7 @@ const clubsArray = [
         ],
         "time": "Tuesdays 3:15 PM",
         "img": "bookClub.png"
+        "desc": "Project 10 is the Gay-Straight Alliance (GSA) at CRLS. P10 is a safe haven and support network for gay, lesbian, bisexual, transgender, questioning and straight supporters. P10 is a place to talk, have fun and provide a sense of belonging; a way to raise awareness of LGBTQ+ issues in the community; and a place to come and be YOU. All students at CRLS are welcome to join regardless of sexual orientation or gender identity. Some yearly activities include: National Coming Out Day Assembly, Informal roundtable discussions about issues facing the GLBT community, Day of Silence, Field Trips, Attend the True Colors Conference, Presentation of the Rose Lipkin Award and Scholarship, Massachusetts Youth Pride, Cambridge Pride Brunch and Coffeehouse."
     },
     {
         "club": "Sisters on the Runway",
@@ -509,6 +543,7 @@ const clubsArray = [
         ],
         "time": "Fridays 8:15 AM",
         "img": "bookClub.png"
+        "desc": "An organization that is fighting against domestic violence and abuse. We partner closely with and raise money for the Transition House (a local domestic abuse shelter). We do chalk campaigns and bake sales. In the Spring, we have our big fashion show event."
     },
     {
         "club": "International & Sustainable Development Club (ISDC)",
@@ -520,6 +555,7 @@ const clubsArray = [
         ],
         "time": "Mondays 3:00 PM",
         "img": "bookClub.png"
+        "desc": "Modern sustainable development is the implementation of the UN’s seven goals for making this world better without damaging society or the environment. The ISDC at CRLS partners with and raises money for the Maasai Stoves and Solar Project in Tanzania. The club also spreads knowledge about sustainable development through the school and city."
     },
     {
         "club": "UNICEF",
@@ -530,6 +566,7 @@ const clubsArray = [
         ],
         "time": "Every other Wednesday, 3:00 PM",
         "img": "bookClub.png"
+        "desc": "We are part of UNICEF USA’s network of high school and college clubs. Our club was established in March 2015 after a long period of careful preparations by dozens of CRLS students. Since then, and thanks to passionate and consistent hard work by its committed members, the club has become prominent among other school clubs, raising significant funds and awareness in our school community and beyond. The UNICEF Club is open to all CRLS students and has always enjoyed a large membership from all grade levels and from different socioeconomic, ethnic, and religious backgrounds, ensuring diversity of ideas and equal opportunity to serve and participate. Among many other activities, the club regularly engages in the following: the annual Trick or Treat for UNICEF campaign, Shots for Tots fundraising event, the Head of the Charles fundraiser, workshops for middle school students and presentations at international nights at elementary schools, the UNICEF USA Student Summit in Washington, D.C. and Advocacy Day on Capitol Hill."
     },
     {
         "club": "Business Club",
@@ -540,6 +577,7 @@ const clubsArray = [
         ],
         "time": "Wednesdays 10:00 AM",
         "img": "bookClub.png"
+        "desc": "In Business Club you develop valuable skills and gain exposure to real world business applications that can help you succeed after CRLS. Maybe you can help develop a business internship during your senior year."
     },
     {
         "club": "Chess Club",
@@ -550,6 +588,7 @@ const clubsArray = [
         ],
         "time": "Thursdays 3:00 PM",
         "img": "bookClub.png"
+        "desc": "Join Chess Club for amazing games, great times and awesome friends. No prior knowledge is needed! You don’t even need to know the names of the pieces to come!"
     },
     {
         "club": "Investment Club",
@@ -560,6 +599,7 @@ const clubsArray = [
         ],
         "time": "Tuesdays 3:30 PM",
         "img": ""
+        "desc": "Investment Club is a place for students to come and discuss the economy, financial markets, investment strategies and learn how to trade stocks and  other financial assets. It is a collaborative environment, but there will also be some opportunities for competition.You do not need to have any experience with investing and there are no costs associated."
     },
     {
         "club": "Latin Club",
@@ -570,6 +610,7 @@ const clubsArray = [
         ],
         "time": "Fridays 3:00 PM",
         "img": "bookClub.png"
+        "desc": "The Latin Club is open to all former, current and future Latin students, as well as students who are interested in ancient Roman history, culture,  mythology or the Latin language. The Latin Club has two types of meetings: in-school meetings (scheduled on Thursdays) and trip meetings (scheduled on Fridays). The in-school meetings will be a mixture of trivia games, cultural knowledge sharing, scavenger hunts and anything else ancient Roman-related that the club members decide they want to do. The trip meetings will consist of either an excursion to the North End to sample “modern Roman desserts” (i.e. cannoli and gelato – please come and put your two cents’ worth into the long-standing debate about which bakery in the North End makes the best cannoli!). The MFA trips will focus on exploring a different collection of the MFA for each meeting. We will start by visiting their amazing Greek and Roman collections, and then expand across cultures that were contemporary to the Greek and Roman times and then slowly move forward in time."
     },
     {
         "club": "Spanish Club",
@@ -580,6 +621,7 @@ const clubsArray = [
         ],
         "time": "Thursdays 3:00 PM",
         "img": "bookClub.png"
+        "desc": "In Spanish club students make food and drinks, listen to Spanish music and learn dances, organize events for Hispanic Heritage month, take field trips to places like the Tazo Chocolate Factory, and eat at restaurants serving Latin American and Spanish food."
     }
 ];
 
